@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1c9d058-8128-4337-a9d0-f17e67e113a8" name="Default Changelist" comment="" />
+    <list default="true" id="f1c9d058-8128-4337-a9d0-f17e67e113a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -118,12 +123,17 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1gxA2o5F0QWADNZs4wkAcwAvjCk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -149,6 +159,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599045665810</updated>
       <workItem from="1599045666968" duration="16144000" />
+      <workItem from="1599089087047" duration="604000" />
     </task>
     <servers />
   </component>
@@ -156,6 +167,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="453" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599089140191">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="453" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1599089140191" />
     <state x="507" y="185" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599065998668">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
